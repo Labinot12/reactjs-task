@@ -17,3 +17,10 @@ npm install
 
 Run the development server
 npm run dev
+
+
+1)How can this app be more secure?
+Use .env file, Use HTTPS ,Update packages
+
+2)How can this app work with millions of records?
+Use pagination, Use fast API and database, Use a CDN for images and files
